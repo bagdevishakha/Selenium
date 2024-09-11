@@ -1,0 +1,5 @@
+#Common Data
+#Sun Aug 11 21:34:18 IST 2024
+password=secret_sauce
+url=https\://www.saucedemo.com/v1/
+username=standard_user
